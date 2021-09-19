@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1340313247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4675516949450442020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b180f47968a45d478e48b75bbbeb08d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _information:
+    _name: Nemi(Rev)
+    _introduction: "\u3082\u308D\u306F\u306E\u3064\u308B\u304E\u7CFB\u9632\u5FA1\u306D\u305A\u307F\nPE\u3068NE\u304C\u9006"
+    _positiveEntangle: "\u6B8B\u3063\u3066\u3044\u305F\u30B7\u30FC\u30EB\u30C9\u5206\u30C0\u30E1\u30FC\u30B8\u3092\u53D7\u3051\u308B"
+    _negativeEntangle: "\u653B\u6483\u76F8\u624B\u306B\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u308B\u30B7\u30FC\u30EB\u30C9\u3092\u5F35\u308B"
+    charaID: 3
+  _cutinSprite: {fileID: 21300000, guid: 4d2d874c41aa65e42907079f37e03404, type: 3}
+  enhanceAmount: 3
+--- !u!1001 &6405413838759906691
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 296
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 480
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414880, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414887, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_Name
+      value: DarkDiffenceNemi
+      objectReference: {fileID: 0}
+    - target: {fileID: 1731172357200414908, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b49e0057c18d31846bc368600d7e9648, type: 3}
+    m_RemovedComponents:
+    - {fileID: -6831355160821701428, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+--- !u!1 &4675516949450442020 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1731172357200414887, guid: 82710a72e797abf4799de6e7af9fa876, type: 3}
+  m_PrefabInstance: {fileID: 6405413838759906691}
+  m_PrefabAsset: {fileID: 0}

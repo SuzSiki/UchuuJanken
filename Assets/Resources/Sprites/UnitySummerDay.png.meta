@@ -1,0 +1,1536 @@
+fileFormatVersion: 2
+guid: 6911358a6968f0d40bf7a46c52f67be5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4875415567885091490
+    second: UnitySummerDay 0
+  - first:
+      213: 7069578374105085209
+    second: UnitySummerDay 1
+  - first:
+      213: -2591052144885843406
+    second: UnitySummerDay 2
+  - first:
+      213: 1545279455137285525
+    second: UnitySummerDay 3
+  - first:
+      213: 6583397263595893743
+    second: UnitySummerDay 4
+  - first:
+      213: 7655625855305097328
+    second: UnitySummerDay 5
+  - first:
+      213: 8890697279412793228
+    second: UnitySummerDay 6
+  - first:
+      213: -7425825641955743305
+    second: UnitySummerDay 7
+  - first:
+      213: -8059822903320870738
+    second: UnitySummerDay 8
+  - first:
+      213: 2607345679372999092
+    second: UnitySummerDay 9
+  - first:
+      213: -7434541338379475605
+    second: UnitySummerDay 10
+  - first:
+      213: -1943683014874305304
+    second: UnitySummerDay 11
+  - first:
+      213: -2997461884786525299
+    second: UnitySummerDay 12
+  - first:
+      213: -7541350069397929632
+    second: UnitySummerDay 13
+  - first:
+      213: -3365542629961888815
+    second: UnitySummerDay 14
+  - first:
+      213: 6856926605458146062
+    second: UnitySummerDay 15
+  - first:
+      213: 1121487884678660199
+    second: UnitySummerDay 16
+  - first:
+      213: -7288451023489473151
+    second: UnitySummerDay 17
+  - first:
+      213: -1786251994001383524
+    second: UnitySummerDay 18
+  - first:
+      213: -2556642470593821082
+    second: UnitySummerDay 19
+  - first:
+      213: 53806363342082381
+    second: UnitySummerDay 20
+  - first:
+      213: 4165027631824709342
+    second: UnitySummerDay 21
+  - first:
+      213: 5397431372466088869
+    second: UnitySummerDay 22
+  - first:
+      213: 7709506273301142404
+    second: UnitySummerDay 23
+  - first:
+      213: -8017777066127948519
+    second: UnitySummerDay 24
+  - first:
+      213: -8845527704029172278
+    second: UnitySummerDay 25
+  - first:
+      213: 2230738995594031120
+    second: UnitySummerDay 26
+  - first:
+      213: -2676615077408580311
+    second: UnitySummerDay 27
+  - first:
+      213: -2644587796203845050
+    second: UnitySummerDay 28
+  - first:
+      213: 8385351567610006034
+    second: UnitySummerDay 29
+  - first:
+      213: 3991542996189827121
+    second: UnitySummerDay 30
+  - first:
+      213: 2071103999689531434
+    second: UnitySummerDay 31
+  - first:
+      213: -3138414037751921430
+    second: UnitySummerDay 32
+  - first:
+      213: 3909621342762569479
+    second: UnitySummerDay 33
+  - first:
+      213: -2342373867082141433
+    second: UnitySummerDay 34
+  - first:
+      213: -4325701667128760038
+    second: UnitySummerDay 35
+  - first:
+      213: 4478334926835262977
+    second: UnitySummerDay 36
+  - first:
+      213: -2306025239799373245
+    second: UnitySummerDay 37
+  - first:
+      213: -8619165178267100402
+    second: UnitySummerDay 38
+  - first:
+      213: 6196132103865097771
+    second: UnitySummerDay 39
+  - first:
+      213: -6120553379527905764
+    second: UnitySummerDay 40
+  - first:
+      213: 5913139684880512111
+    second: UnitySummerDay 41
+  - first:
+      213: -5912501907622203858
+    second: UnitySummerDay 42
+  - first:
+      213: -1306256724057625259
+    second: UnitySummerDay 43
+  - first:
+      213: 5078156254621546126
+    second: UnitySummerDay 44
+  - first:
+      213: 3717301164944271741
+    second: UnitySummerDay 45
+  - first:
+      213: -585891740002072292
+    second: UnitySummerDay 46
+  - first:
+      213: 3105363033047965081
+    second: UnitySummerDay 47
+  - first:
+      213: -1382311986838416883
+    second: UnitySummerDay 48
+  - first:
+      213: 5416600038986924894
+    second: UnitySummerDay 49
+  - first:
+      213: 7937367085580920663
+    second: UnitySummerDay 50
+  - first:
+      213: 6442970476360367894
+    second: UnitySummerDay 51
+  - first:
+      213: -7363606885436538566
+    second: UnitySummerDay 52
+  - first:
+      213: 1404058529592462983
+    second: UnitySummerDay 53
+  - first:
+      213: -7833588528376822536
+    second: UnitySummerDay 54
+  - first:
+      213: 3955406096524928157
+    second: UnitySummerDay 55
+  - first:
+      213: -1434158809747369071
+    second: UnitySummerDay 56
+  - first:
+      213: -7515760270609223353
+    second: UnitySummerDay 57
+  - first:
+      213: 4123543407456564326
+    second: UnitySummerDay 58
+  - first:
+      213: 3453422049005117790
+    second: UnitySummerDay 59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 3024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnitySummerDay 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dbccf3f5b075cb0800000000000000
+      internalID: -4875415567885091490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915315433103c1260800000000000000
+      internalID: 7069578374105085209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 2
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ab09d5dcbba0cd0800000000000000
+      internalID: -2591052144885843406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 3
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595ca2a2a7fe17510800000000000000
+      internalID: 1545279455137285525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe379ef4eecec5b50800000000000000
+      internalID: 6583397263595893743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070a1c6772f3e3a60800000000000000
+      internalID: 7655625855305097328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f6ee8121a126b70800000000000000
+      internalID: 8890697279412793228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 7
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9ad3f1cea22f890800000000000000
+      internalID: -7425825641955743305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 8
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0800fa5c1c52090800000000000000
+      internalID: -8059822903320870738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 9
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b95da1c4172f2420800000000000000
+      internalID: 2607345679372999092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 10
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b652fe9ea0433d890800000000000000
+      internalID: -7434541338379475605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ece4769896a605e0800000000000000
+      internalID: -1943683014874305304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 12
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bb6890c40e666d0800000000000000
+      internalID: -2997461884786525299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 13
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0614ba2511eb75790800000000000000
+      internalID: -7541350069397929632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 14
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db00b83fc03b41d0800000000000000
+      internalID: -3365542629961888815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0302490b62b82f50800000000000000
+      internalID: 6856926605458146062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 16
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7600d2a0a43509f00800000000000000
+      internalID: 1121487884678660199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 17
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185e316f8683ada90800000000000000
+      internalID: -7288451023489473151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 18
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fd6328645f537e0800000000000000
+      internalID: -1786251994001383524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 19
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666049af73bf48cd0800000000000000
+      internalID: -2556642470593821082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 20
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4119a53a982fb000800000000000000
+      internalID: 53806363342082381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6299a50962dc930800000000000000
+      internalID: 4165027631824709342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 22
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abe3678c3787ea40800000000000000
+      internalID: 5397431372466088869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 23
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b92cddb1badfa60800000000000000
+      internalID: 7709506273301142404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 24
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9158b250d322bb090800000000000000
+      internalID: -8017777066127948519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 25
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acde6763b6f5e3580800000000000000
+      internalID: -8845527704029172278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 26
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0107efa2c4d25fe10800000000000000
+      internalID: 2230738995594031120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d5b96b4c0cadad0800000000000000
+      internalID: -2676615077408580311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 28
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64acfe539698c4bd0800000000000000
+      internalID: -2644587796203845050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 29
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ac820c2d0ce5470800000000000000
+      internalID: 8385351567610006034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 30
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130d799f43fc46730800000000000000
+      internalID: 3991542996189827121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 31
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20a2625d1a0ebc10800000000000000
+      internalID: 2071103999689531434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 32
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae482b98f0d1274d0800000000000000
+      internalID: -3138414037751921430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 33
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f06ada5e3c14630800000000000000
+      internalID: 3909621342762569479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 34
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7013969d0673e7fd0800000000000000
+      internalID: -2342373867082141433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 35
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1512
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19a976904508f3c0800000000000000
+      internalID: -4325701667128760038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106ad3383ed362e30800000000000000
+      internalID: 4478334926835262977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3426ca2234a5fffd0800000000000000
+      internalID: -2306025239799373245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b19f8cfe2926880800000000000000
+      internalID: -8619165178267100402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 39
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1008
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ed548e1551df550800000000000000
+      internalID: 6196132103865097771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 40
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1008
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e2c60212d6f0ba0800000000000000
+      internalID: -6120553379527905764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 41
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1008
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f647198d631bf0250800000000000000
+      internalID: 5913139684880512111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 42
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1008
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eeb5e37d292fda0800000000000000
+      internalID: -5912501907622203858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 43
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1008
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d64192e6e3fdde0800000000000000
+      internalID: -1306256724057625259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8635a6553c397640800000000000000
+      internalID: 5078156254621546126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 45
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7926a3e6b1869330800000000000000
+      internalID: 3717301164944271741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 46
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 504
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c194750119e7ed7f0800000000000000
+      internalID: -585891740002072292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 47
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 504
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d1473c937781b20800000000000000
+      internalID: 3105363033047965081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 48
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 504
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d025bbf529a01dce0800000000000000
+      internalID: -1382311986838416883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 49
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 504
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53ce2e7901ab2b40800000000000000
+      internalID: 5416600038986924894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757ade37f41372e60800000000000000
+      internalID: 7937367085580920663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ff9cd03870a6950800000000000000
+      internalID: 6442970476360367894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 52
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a314fef3d863fc990800000000000000
+      internalID: -7363606885436538566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 53
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e473c2bc73c7310800000000000000
+      internalID: 1404058529592462983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 54
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1008
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f44681dcb0894390800000000000000
+      internalID: -7833588528376822536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 55
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9468cd53ec64e630800000000000000
+      internalID: 3955406096524928157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 56
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193d2893928d81ce0800000000000000
+      internalID: -1434158809747369071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 57
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741f755aad7a2b790800000000000000
+      internalID: -7515760270609223353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 58
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6643a51b1e4c93930800000000000000
+      internalID: 4123543407456564326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnitySummerDay 59
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2016
+        width: 504
+        height: 504
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51a37a7e050def20800000000000000
+      internalID: 3453422049005117790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AIKO
+  m_Controller: {fileID: 9100000, guid: 58ea0f2554a4ce94ea7935642f8977c8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 410d801b548268c49aaae63419ec40ba, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a76b999419941ce4a867d3a92d28f547, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 556cb5535c7f4bd469ef2b3f9d634168, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: de3c34cf4f3cd6a4b85fe1baab6b0def, type: 2}

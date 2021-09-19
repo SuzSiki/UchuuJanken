@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: dc878b19d208ded48b07853aed4cb047
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2747451357509010210
+    second: Chiri 0
+  - first:
+      213: -8778377787247382989
+    second: Chiri 1
+  - first:
+      213: 630495349976621343
+    second: Chiri 2
+  - first:
+      213: 7524698831575428911
+    second: Chiri 3
+  - first:
+      213: 3160393099192770738
+    second: Chiri 4
+  - first:
+      213: -813531356430511720
+    second: Chiri 5
+  - first:
+      213: 2748474681389006044
+    second: Chiri 6
+  - first:
+      213: -6905538014977171620
+    second: Chiri 7
+  - first:
+      213: 8503115256603492541
+    second: Chiri 8
+  - first:
+      213: 6693676673935311846
+    second: Chiri 9
+  - first:
+      213: -2980469826298865849
+    second: Chiri 10
+  - first:
+      213: 5603639247751814317
+    second: Chiri 11
+  - first:
+      213: 4162276729638120515
+    second: Chiri 12
+  - first:
+      213: 4566773469122276618
+    second: Chiri 13
+  - first:
+      213: -3371565879172286086
+    second: Chiri 14
+  - first:
+      213: 4131892861828865831
+    second: Chiri 15
+  - first:
+      213: -8429778057874606548
+    second: Chiri 16
+  - first:
+      213: 2466214128070413313
+    second: Chiri 17
+  - first:
+      213: 908384389184976883
+    second: Chiri 18
+  - first:
+      213: -7792797830617777050
+    second: Chiri 19
+  - first:
+      213: 3093953883541623912
+    second: Chiri 20
+  - first:
+      213: 521837534298625762
+    second: Chiri 21
+  - first:
+      213: 1071929050229019420
+    second: Chiri 22
+  - first:
+      213: -8818634479440997025
+    second: Chiri 23
+  - first:
+      213: -8105721704069403194
+    second: Chiri 24
+  - first:
+      213: -1296400760616564117
+    second: Chiri 25
+  - first:
+      213: -4916270046916073113
+    second: Chiri 26
+  - first:
+      213: -5606291207712693526
+    second: Chiri 27
+  - first:
+      213: 4067689298156620580
+    second: Chiri 28
+  - first:
+      213: -772007585441536845
+    second: Chiri 29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 417
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chiri 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2234df9f378e02620800000000000000
+      internalID: 2747451357509010210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ea0fe89efec2680800000000000000
+      internalID: -8778377787247382989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1164e72e28ffb800800000000000000
+      internalID: 630495349976621343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fa9d148b91d6860800000000000000
+      internalID: 7524698831575428911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b02bfb77c8fbdb20800000000000000
+      internalID: 3160393099192770738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8915156aa81c5b4f0800000000000000
+      internalID: -813531356430511720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcb852292b842620800000000000000
+      internalID: 2748474681389006044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f545233c99a20a0800000000000000
+      internalID: -6905538014977171620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db04e024642210670800000000000000
+      internalID: 8503115256603492541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e38b376877b4ec50800000000000000
+      internalID: 6693676673935311846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7479fa3fb7e33a6d0800000000000000
+      internalID: -2980469826298865849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac1fabd43024cd40800000000000000
+      internalID: 5603639247751814317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c64f602a063c930800000000000000
+      internalID: 4162276729638120515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d26bc3640706f30800000000000000
+      internalID: 4566773469122276618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79bb1b32bac531d0800000000000000
+      internalID: -3371565879172286086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f18478aae675930800000000000000
+      internalID: 4131892861828865831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26700de489630b80800000000000000
+      internalID: -8429778057874606548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ccfa3dea0c93220800000000000000
+      internalID: 2466214128070413313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f771e40aca3b9c00800000000000000
+      internalID: 908384389184976883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cb79b39ab6ad390800000000000000
+      internalID: -7792797830617777050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86450f32aaeefea20800000000000000
+      internalID: 3093953883541623912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6d55ef870fd3700800000000000000
+      internalID: 521837534298625762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c139257bac140ee00800000000000000
+      internalID: 1071929050229019420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5558e00aaaed9580800000000000000
+      internalID: -8818634479440997025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cde4cc5e01b28f80800000000000000
+      internalID: -8105721704069403194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a47e87062420ee0800000000000000
+      internalID: -1296400760616564117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769aca99076e5cbb0800000000000000
+      internalID: -4916270046916073113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2a3e899d37232b0800000000000000
+      internalID: -5606291207712693526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b88497dd5537830800000000000000
+      internalID: 4067689298156620580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chiri 29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 139
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4a9d9f0374945f0800000000000000
+      internalID: -772007585441536845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Rankiong/unity-simple-ranking-master/Assets/naichilab/unity-simple-ranking/Scenes/RankingScene.unity
+    guid: 152244f5855414ac4a3874f14efa583c
+  - enabled: 1
+    path: Assets/SpaceAssets/ExampleScene.unity
+    guid: 4eaca29a0bb5b384aa2aea8f3def97f7
+  m_configObjects: {}
