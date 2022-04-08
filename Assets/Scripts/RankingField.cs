@@ -93,7 +93,7 @@ public class RankingField : MonoBehaviour
             yield return StartCoroutine(RemoteRankingLoader.instance.SendScoreEnumerator());
         }
 
-        if (RemoteRankingLoader.instance.sinceLastUpdate == null || (updateMin != -1 &&updateMin * 60 < RemoteRankingLoader.instance.sinceLastUpdate))
+        if (RemoteRankingLoader.instance.sinceLastUpdate == null || (updateMin != -1 && updateMin * 60 < RemoteRankingLoader.instance.sinceLastUpdate))
         {
             yield return StartCoroutine(RemoteRankingLoader.instance.ReloadRanking());
         }
@@ -108,11 +108,44 @@ public class RankingField : MonoBehaviour
         size.y = tagHeightDelta * RemoteRankingLoader.instance.rankingData.Count;
         rankingView.content.sizeDelta = size;
 
+        var playerdata = PlayerManager.instance.data;
+        bool playerPut = false;
+
+        var position = 0;
         foreach (var data in RemoteRankingLoader.instance.rankingData)
         {
+            position++;
+
             var obj = nodePool.GetObj();
             obj.canvasGroup.DOFade(0, 0).Play();
-            rankTextHash[obj].text = data.position.ToString();
+
+
+            //ランキングは更新されていない場合があるが、プレイやーのデータは常に更新されるので
+            //プレイヤーだけ別枠で作る
+            if (!playerPut && data.data.rating < playerdata.rating)
+            {
+                rankTextHash[obj].text = position.ToString();
+                obj.LoadPlayerData(playerdata);
+                sq.Append(obj.canvasGroup.DOFade(1, 0.2f));
+                playerPut = true;
+
+                //ポジションは進める
+                position++;
+
+                //今ロードしていた人のための新しいノードを取得
+                obj = nodePool.GetObj();
+            }
+            else if (data.ID == RemoteRankingLoader.instance.ObjectID)
+            {
+                //逆にすでにロードしてあった場合は飛ばす
+                position--;
+
+                //ちゃんとノードも返すの忘れなくてえらい
+                obj.gameObject.SetActive(false);
+                continue;
+            }
+
+            rankTextHash[obj].text = position.ToString();
             obj.LoadPlayerData(data.data);
             sq.Append(obj.canvasGroup.DOFade(1, 0.2f));
         }
@@ -138,7 +171,7 @@ public class RankingField : MonoBehaviour
 
         int? pp = RemoteRankingLoader.instance.playerPosition;
         var pStr = "";
-        if (pp == null)
+        if (pp == null || pp == 0)
         {
             pStr = "---";
         }

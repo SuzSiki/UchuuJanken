@@ -57,7 +57,7 @@ public class RemoteRankingLoader : Singleton<RemoteRankingLoader>
     //RankingInfo _board { get { return boards.GetRankingInfo(defaultBoard); } }
     string playerName { get { return PlayerManager.instance.name; } }
     IScore _nowRating { get { return PlayerManager.instance.rating; } }
-    public int? playerPosition { get{return FindPosition();} }
+    public int? playerPosition { get { return FindPosition(); } }
 
 
 
@@ -99,17 +99,26 @@ public class RemoteRankingLoader : Singleton<RemoteRankingLoader>
         yield return StartCoroutine(LoadRanking());
     }
 
-    int? FindPosition()
+    //渡されたプレイヤーのポジションを返す
+    //nullなら自分のポジション
+    int? FindPosition(PlayerData data = null)
     {
-        int? position = rankingData.FindIndex(x => x.ID == ObjectID);
-        if (position != null)
+        if (data == null)
         {
-            return position.Value + 1;
+            data = PlayerManager.instance.data;
         }
-        else
+
+        int position = 0;
+        for (int i = 0; i < rankingData.Count; i++)
         {
-            return null;
+            position++;
+            if (data.rating > rankingData[i].data.rating)
+            {
+                break;
+            }
         }
+
+        return position;
     }
 
 

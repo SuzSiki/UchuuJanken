@@ -56,6 +56,8 @@ public class PlayerReactiveView : MonoBehaviour
               enhanceQueue.Add(() => OnEnhance(x, y));
           };
 
+        InitialLoad(target);
+
         playerAnimator.OnAnimationContact += OnPlayerAction;
 
         task.compleate = true;
@@ -99,6 +101,12 @@ public class PlayerReactiveView : MonoBehaviour
             }
             enhanceQueue.Clear();
         }
+    }
+
+    void InitialLoad(JankenPlayer player)
+    {
+        OnEnhance(EnhanceType.Attack,player.attackEnhance);
+        OnEnhance(EnhanceType.Diffence,player.diffenceEnhance);
     }
 
     protected virtual void OnEnhance(EnhanceType type, int amount)
