@@ -362,3 +362,4 @@ Received Import Request.
 Start importing Assets/Resources/Sprites/ChiliStandSquareMonoCutin.png using Guid(7229178a19c27a94d809249bbc8b24fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b6bd5aec9131c87d1c6d9492ceb4f80') in 0.105871 seconds
   Import took 0.132397 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
